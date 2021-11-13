@@ -1,7 +1,9 @@
 # DGCNN Paddle Version
 
 Original paper: [Dynamic Graph CNN for Learning on Point Clouds](https://arxiv.org/abs/1801.07829)
+
 Dataset: ShapeNet
+
 Original Pytorch Implementation: [DGCNN-Pytorch](https://github.com/WangYueFt/dgcnn/tree/master/pytorch)
 
 ## Introduction
